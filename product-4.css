@@ -1,0 +1,376 @@
+.desktop-6,
+.desktop-6 * {
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #ffffff;
+  width: 1350px;
+  height: 1700px;
+  position: relative;
+  overflow: hidden;
+}
+.footer {
+  background: #3e4b24;
+  width: 1350px;
+  height: 400px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 0px;
+}
+.ghazibad {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 1540px;
+  width: 96px;
+  height: 29px;
+}
+.bangalore {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 265px;
+  top: 1481px;
+  width: 105px;
+  height: 29px;
+}
+.hyderabad {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 141px;
+  top: 1481px;
+  width: 116px;
+  height: 29px;
+}
+.gurgaon {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 1481px;
+  width: 96px;
+  height: 29px;
+}
+.chennai {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 385px;
+  top: 1481px;
+  width: 96px;
+  height: 29px;
+}
+.pune {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 1540px;
+  width: 66px;
+  height: 29px;
+}
+.noida {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 249px;
+  top: 1540px;
+  width: 67px;
+  height: 29px;
+}
+.kochi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 351px;
+  top: 1540px;
+  width: 112px;
+  height: 29px;
+}
+.bank-offers {
+  background: #36bc33;
+  width: 1350px;
+  height: 248px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 400px;
+}
+.bank-offers2 {
+  width: 1843px;
+  height: 1129px;
+  position: absolute;
+  left: calc(50% - 1022px);
+  bottom: 403px;
+}
+.home-page-logo {
+  background: #fefefe;
+  width: 1350px;
+  height: 160px;
+  position: absolute;
+  left: calc(50% - 675px);
+  top: calc(50% - 850px);
+}
+.shopify-logo {
+  position: absolute;
+  left: 81px;
+  top: 59px;
+  overflow: visible;
+}
+.header {
+  background: #599e60;
+  width: 1350px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shopifyemart-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font: 600 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1065px;
+  top: 11px;
+  width: 275px;
+  height: 22px;
+}
+.shopify-com {
+  color: #2d2ba4;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 149px;
+  top: 84px;
+  width: 133px;
+  height: 36px;
+}
+._123-673-971 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 920px;
+  top: 11px;
+  width: 155px;
+  height: 22px;
+}
+.discover-shop-enjoy {
+  color: #ffffff;
+  text-align: center;
+  font: 400 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: 11px;
+  width: 284px;
+  height: 22px;
+}
+.cart-logo {
+  width: 50px;
+  height: 52.24px;
+  position: absolute;
+  left: 1231px;
+  top: 84px;
+}
+.your-shopping-your-way {
+  color: #12263d;
+  text-align: center;
+  font: 500 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 64px;
+  top: 145px;
+  width: 222px;
+  height: 46px;
+}
+.cities-we-serve {
+  color: #000000;
+  text-align: center;
+  font: 800 30px "Inter", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 1366px;
+  width: 306px;
+  height: 45px;
+}
+.delhi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 1427px;
+  width: 58px;
+  height: 29px;
+}
+.mumbai {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 1427px;
+  width: 79px;
+  height: 29px;
+}
+.gauhati {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 254px;
+  top: 1427px;
+  width: 77px;
+  height: 29px;
+}
+.surat {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 357px;
+  top: 1427px;
+  width: 57px;
+  height: 29px;
+}
+.shopify-logo2 {
+  position: absolute;
+  left: 1017px;
+  top: 1337px;
+  overflow: visible;
+}
+.shopify-com2 {
+  color: #d4d3f3;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1092px;
+  top: 1368px;
+  width: 133px;
+  height: 36px;
+}
+.your-shopping-your-way2 {
+  color: #000000;
+  text-align: center;
+  font: 500 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1024px;
+  top: 1427px;
+  width: 222px;
+  height: 46px;
+}
+.linkdein {
+  position: absolute;
+  left: 918px;
+  top: 1519px;
+  overflow: visible;
+}
+.instagram {
+  position: absolute;
+  left: 984px;
+  top: 1519px;
+  overflow: visible;
+}
+.x-com {
+  position: absolute;
+  left: 1059px;
+  top: 1519px;
+  overflow: visible;
+}
+.facebook {
+  position: absolute;
+  left: 1135px;
+  top: 1517px;
+  overflow: visible;
+}
+.youtube {
+  position: absolute;
+  left: 1215px;
+  top: 1520px;
+  overflow: visible;
+}
+.follow-us-on {
+  color: rgba(0, 0, 0, 0.93);
+  text-align: center;
+  font: 700 italic 22px "Inter", sans-serif;
+  position: absolute;
+  left: 913px;
+  top: 1475px;
+  width: 150px;
+  height: 35px;
+}
+.rectangle-1 {
+  width: 416px;
+  height: 388px;
+  position: absolute;
+  left: 79px;
+  top: 256px;
+}
+.samsung-6-kg-fully-automatic-top-loading-washing-machine-wa-70-a-4002-gs-tl-imperial-silver-diamond-drum-18-500 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 546px;
+  top: 314px;
+  width: 673px;
+}
+.samsung-6-kg-fully-automatic-top-loading-washing-machine-wa-70-a-4002-gs-tl-imperial-silver-diamond-drum-18-500-span {
+  color: #000000;
+  font: 600 italic 35px "Inter", sans-serif;
+}
+.samsung-6-kg-fully-automatic-top-loading-washing-machine-wa-70-a-4002-gs-tl-imperial-silver-diamond-drum-18-500-span2 {
+  color: #000000;
+  font: 600 italic 24px "Inter", sans-serif;
+}
+.samsung-6-kg-fully-automatic-top-loading-washing-machine-wa-70-a-4002-gs-tl-imperial-silver-diamond-drum-18-500-span3 {
+  color: #000000;
+  font: 600 italic 35px "Inter", sans-serif;
+}
+.brand-samsung-capacity-6-kg-product-dimensions-54-d-x-56-8-w-x-92-6-h-special-feature-inveter-colour-white {
+  color: #000000;
+  text-align: left;
+  font: 300 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 703px;
+  width: 512px;
+  height: 381px;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon {
+  color: #000000;
+  text-align: left;
+  font: 300 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 543px;
+  top: 592px;
+  width: 536px;
+  height: 198px;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon-span {
+  color: #000000;
+  font: 300 italic 24px "Inter", sans-serif;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon-span2 {
+  color: #000000;
+  font: 300 italic 24px "Inter", sans-serif;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon-span3 {
+  color: #000000;
+  font: 300 italic 24px "Inter", sans-serif;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon-span4 {
+  color: #000000;
+  font: 300 italic 24px "Inter", sans-serif;
+}
+._89-positive-ratings-from-100-k-customers-100-k-recent-orders-from-this-brand-10-years-on-amazon-span5 {
+  color: #000000;
+  font: 300 italic 24px "Inter", sans-serif;
+}

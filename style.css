@@ -1,0 +1,722 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1350px;
+  height: 1700px;
+  position: relative;
+  overflow: hidden;
+}
+.footer {
+  background: #3e4b24;
+  width: 1350px;
+  height: 400px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 0px;
+}
+.ghazibad {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 1540px;
+  width: 96px;
+  height: 29px;
+}
+.bangalore {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 265px;
+  top: 1481px;
+  width: 105px;
+  height: 29px;
+}
+.hyderabad {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 141px;
+  top: 1481px;
+  width: 116px;
+  height: 29px;
+}
+.gurgaon {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 1481px;
+  width: 96px;
+  height: 29px;
+}
+.chennai {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 385px;
+  top: 1481px;
+  width: 96px;
+  height: 29px;
+}
+.pune {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 1540px;
+  width: 66px;
+  height: 29px;
+}
+.noida {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 249px;
+  top: 1540px;
+  width: 67px;
+  height: 29px;
+}
+.kochi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 351px;
+  top: 1540px;
+  width: 112px;
+  height: 29px;
+}
+.bank-offers {
+  background: #36bc33;
+  width: 1350px;
+  height: 248px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 400px;
+}
+.sbi-offer {
+  width: 248px;
+  height: 212px;
+  position: absolute;
+  left: 551px;
+  top: 1088px;
+}
+.baground {
+  width: 1350px;
+  height: 840px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 612px;
+}
+.baground2 {
+  width: 1350px;
+  height: 840px;
+  position: absolute;
+  left: calc(50% - 675px);
+  bottom: 622px;
+}
+.sign-up {
+  background: #5988e3;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  position: absolute;
+  left: 708px;
+  top: 966px;
+}
+.add-to-cart {
+  color: #000000;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0.344deg) scale(1, 1);
+}
+.sign-up2 {
+  background: #5988e3;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  position: absolute;
+  left: 373px;
+  top: 966px;
+}
+.sign-up3 {
+  background: #5988e3;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  position: absolute;
+  left: 60px;
+  top: 966px;
+}
+.sign-up4 {
+  background: #5988e3;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  position: absolute;
+  left: 525px;
+  top: 658px;
+}
+.sign-up5 {
+  background: #5988e3;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  position: absolute;
+  left: 149px;
+  top: 658px;
+}
+.s-laptop {
+  width: 195px;
+  height: 152px;
+  position: absolute;
+  left: 686px;
+  top: 735px;
+}
+.rectangle-14 {
+  background: #ffffff;
+  width: 195px;
+  height: 50px;
+  position: absolute;
+  left: 686px;
+  top: 887px;
+}
+.s-sofa {
+  width: 193px;
+  height: 151px;
+  position: absolute;
+  left: 40px;
+  top: 736px;
+}
+.rectangle-12 {
+  background: #ffffff;
+  width: 195px;
+  height: 50px;
+  position: absolute;
+  left: 40px;
+  top: 890px;
+}
+.s-washing-machine {
+  width: 195px;
+  height: 149px;
+  position: absolute;
+  left: 363px;
+  top: 738px;
+}
+.rectangle-13 {
+  background: #ffffff;
+  width: 195px;
+  height: 50px;
+  position: absolute;
+  left: 363px;
+  top: 890px;
+}
+.samsung-s-23 {
+  width: 236px;
+  height: 151px;
+  position: absolute;
+  left: 483px;
+  top: 445px;
+}
+.product-2 {
+  background: #ffffff;
+  width: 236px;
+  height: 50px;
+  position: absolute;
+  left: 483px;
+  top: 596px;
+}
+.iphone-15-starting-at-just-105000 {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 115px;
+  top: 602px;
+  width: 215px;
+  height: 30px;
+}
+.home-page-logo {
+  background: #fefefe;
+  width: 1350px;
+  height: 160px;
+  position: absolute;
+  left: calc(50% - 675px);
+  top: calc(50% - 850px);
+}
+.shopify-logo {
+  position: absolute;
+  left: 81px;
+  top: 59px;
+  overflow: visible;
+}
+.header {
+  background: #599e60;
+  width: 1350px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shopifyemart-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font: 600 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1065px;
+  top: 11px;
+  width: 275px;
+  height: 22px;
+}
+.shopify-com {
+  color: #2d2ba4;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 149px;
+  top: 84px;
+  width: 133px;
+  height: 36px;
+}
+._123-673-971 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 920px;
+  top: 11px;
+  width: 155px;
+  height: 22px;
+}
+.discover-shop-enjoy {
+  color: #ffffff;
+  text-align: center;
+  font: 400 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: 11px;
+  width: 284px;
+  height: 22px;
+}
+.search-in-shopify {
+  color: #000000;
+  text-align: center;
+  font: 100 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 120px;
+  width: 195px;
+  height: 18px;
+}
+.signup-logo {
+  width: 59.35px;
+  height: 60px;
+  position: absolute;
+  left: 890px;
+  top: 96px;
+}
+.sign-up6 {
+  background: #83c7dd;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  position: absolute;
+  left: 979px;
+  top: 107px;
+}
+.sign-up7 {
+  color: #000000;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0.344deg) scale(1, 1);
+}
+.view-cart {
+  background: #83c7dd;
+  border-radius: 24px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  position: absolute;
+  left: 1190px;
+  top: 106px;
+}
+.view-cart2 {
+  color: #000000;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: relative;
+  width: 118.03px;
+  transform-origin: 0 0;
+  transform: rotate(0.344deg) scale(1, 1);
+}
+.cart-logo {
+  width: 50px;
+  height: 52.24px;
+  position: absolute;
+  left: 1119px;
+  top: 106px;
+}
+.display-top {
+  border-radius: 0px;
+  position: absolute;
+  left: 20px;
+  top: 228px;
+  overflow: visible;
+}
+.grocery {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1067px;
+  top: 347px;
+  width: 106px;
+  height: 24px;
+}
+.home-and-kitchen {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 346px;
+  width: 143px;
+  height: 26px;
+}
+.beauty {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 710px;
+  top: 346px;
+  width: 106px;
+  height: 26px;
+}
+.fasion {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 536px;
+  top: 348px;
+  width: 106px;
+  height: 26px;
+}
+.mobiles-and-tablets {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 346px;
+  width: 166px;
+  height: 31px;
+}
+.top-offers {
+  position: absolute;
+  left: 190px;
+  top: 246px;
+  overflow: visible;
+}
+.top-offers2 {
+  color: #000000;
+  text-align: center;
+  font: 600 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 180px;
+  top: 348px;
+  width: 106px;
+  height: 26px;
+}
+.your-shopping-your-way {
+  color: #12263d;
+  text-align: center;
+  font: 500 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 64px;
+  top: 145px;
+  width: 222px;
+  height: 46px;
+}
+.search-bar {
+  width: 322px;
+  height: 146px;
+  position: absolute;
+  left: 428px;
+  top: 56px;
+}
+.cities-we-serve {
+  color: #000000;
+  text-align: center;
+  font: 800 30px "Inter", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 1366px;
+  width: 306px;
+  height: 45px;
+}
+.delhi {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 1427px;
+  width: 58px;
+  height: 29px;
+}
+.mumbai {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 1427px;
+  width: 79px;
+  height: 29px;
+}
+.gauhati {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 254px;
+  top: 1427px;
+  width: 77px;
+  height: 29px;
+}
+.surat {
+  color: #ffffff;
+  text-align: center;
+  font: 600 20px "Inter", sans-serif;
+  position: absolute;
+  left: 357px;
+  top: 1427px;
+  width: 57px;
+  height: 29px;
+}
+.shopify-logo2 {
+  position: absolute;
+  left: 1017px;
+  top: 1337px;
+  overflow: visible;
+}
+.shopify-com2 {
+  color: #d4d3f3;
+  text-align: center;
+  font: 700 italic 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1092px;
+  top: 1368px;
+  width: 133px;
+  height: 36px;
+}
+.your-shopping-your-way2 {
+  color: #000000;
+  text-align: center;
+  font: 500 italic 16px "Inter", sans-serif;
+  position: absolute;
+  left: 1024px;
+  top: 1427px;
+  width: 222px;
+  height: 46px;
+}
+.linkdein {
+  position: absolute;
+  left: 918px;
+  top: 1519px;
+  overflow: visible;
+}
+.instagram {
+  position: absolute;
+  left: 984px;
+  top: 1519px;
+  overflow: visible;
+}
+.x-com {
+  position: absolute;
+  left: 1059px;
+  top: 1519px;
+  overflow: visible;
+}
+.facebook {
+  position: absolute;
+  left: 1135px;
+  top: 1517px;
+  overflow: visible;
+}
+.youtube {
+  position: absolute;
+  left: 1215px;
+  top: 1520px;
+  overflow: visible;
+}
+.follow-us-on {
+  color: rgba(0, 0, 0, 0.93);
+  text-align: center;
+  font: 700 italic 22px "Inter", sans-serif;
+  position: absolute;
+  left: 913px;
+  top: 1475px;
+  width: 150px;
+  height: 35px;
+}
+.idfc-bank-offer {
+  width: 212px;
+  height: 198px;
+  position: absolute;
+  left: 145px;
+  top: 1095px;
+}
+.bank-offer {
+  width: 209px;
+  height: 198px;
+  position: absolute;
+  left: 958px;
+  top: 1095px;
+}
+.iphone-15 {
+  width: 235px;
+  height: 151px;
+  position: absolute;
+  left: 108px;
+  top: 445px;
+}
+.rectangle-10 {
+  background: #ffffff;
+  width: 236px;
+  height: 50px;
+  position: absolute;
+  left: 107px;
+  top: 596px;
+}
+.samsung-s-23-ultra-starting-at-130000 {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 494px;
+  top: 606px;
+  width: 205px;
+  height: 27px;
+}
+.mojo-velvet-3-seater-sofa-starting-at-35000 {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 43px;
+  top: 894px;
+  width: 179px;
+  height: 33px;
+}
+.samsung-6-kg-top-load-starting-at-185000 {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 369px;
+  top: 897px;
+  width: 182px;
+  height: 30px;
+}
+.hp-15-intel-6405-u-15-6-inch-39-6-cm-hd {
+  color: #000000;
+  text-align: left;
+  font: 600 14px "Inter", sans-serif;
+  position: absolute;
+  left: 699px;
+  top: 894px;
+  width: 174px;
+  height: 31px;
+}
+.mobiles-top {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 370px;
+  top: 246px;
+}
+.fashion-top {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 544px;
+  top: 246px;
+}
+.beauty-top {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 718px;
+  top: 246px;
+}
+.home-top {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 898px;
+  top: 246px;
+}
+.grocery-top {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 1078px;
+  top: 246px;
+}
